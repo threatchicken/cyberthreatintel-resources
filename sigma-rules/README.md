@@ -1,1 +1,0 @@
-# Detection rules for SIEMs
